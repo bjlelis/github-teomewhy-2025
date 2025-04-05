@@ -3,3 +3,4 @@
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repo remoto com github
 
 Pessoas participantes: Teo
+bruno
