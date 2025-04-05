@@ -1,7 +1,7 @@
-git init -------> criar repo 
-git status  -----> status do trampo atual
+git init   Cria
+git status  Mostra
 git add .
 git commit -m "mensagem estranha"
-git log
+git log mostra logs
 git diff
 git reset
