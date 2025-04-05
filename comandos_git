@@ -1,7 +1,7 @@
-git init
-git status
+git init   Cria
+git status  Mostra
 git add .
 git commit -m "mensagem"
-git log
+git log mostra logs
 git diff
 git reset
